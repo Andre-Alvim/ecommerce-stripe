@@ -3,10 +3,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <>
-    <head>
-      
-    </head>
-    </>
+    <h1>Simple Stripe Store</h1>
   )
 }
